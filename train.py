@@ -7,7 +7,7 @@ import os
 
 data = []
 labels = []
-classes = 5
+classes = 24
 cur_path = os.getcwd() #To get current directory
 
 
